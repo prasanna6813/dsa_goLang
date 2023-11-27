@@ -1,0 +1,10 @@
+go 1.21.4
+
+use (
+	./algo/01_search
+	./algo/02_sort
+	./ds/01linkedList
+	./ds/02StacksAndQueues
+	./ds/03binarySearchTree
+	./ds/04trie
+)
